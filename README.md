@@ -5,11 +5,11 @@ Ce dépôt est dédié au cadre du projet de deuxième année SPID à l'ENSTA Br
 
 # Equipe projet
 
-HU Dinghao
-PHILIPPE Thibault
-ROHE Marion
-SIX Hugo
-WANDJI Pavelle
+	HU Dinghao
+	PHILIPPE Thibault
+	ROHE Marion
+	SIX Hugo
+	WANDJI Pavelle
 
 # Objectif du projet
 
