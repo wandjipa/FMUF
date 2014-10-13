@@ -16,10 +16,10 @@ WANDJI Pavelle
 L'objectif principal de ce projet est d'aider les agriculteurs
 à automatiser le suivi de l'évolution de différents paramètres tels que:
 
-	- la température
-	- la pression
-	- l'humidité du sol
-	- etc ...
+- la température
+- la pression
+- l'humidité du sol
+- etc ...
 	
 dans leurs plantations et donc faciliter la rotation des cultures
 ou alors déclencher des actions automatiquement
