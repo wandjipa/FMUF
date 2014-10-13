@@ -3,22 +3,30 @@ FMUF
 
 Ce dépôt est dédié au cadre du projet de deuxième année SPID à l'ENSTA Bretagne FMUF.
 
-# Comment Cloner ce dépôt ?
+# Equipe projet
 
+HU Dinghao
+PHILIPPE Thibault
+ROHE Marion
+SIX Hugo
+WANDJI Pavelle
 
-1. Se rendre à la page du projet spid https://github.com/wandjipa/FMUF qui est dédié au projet
-2. Forker le projet dans votre espace
-2. En bas à droite, dans le champ HTTPS clone URL, copier l'adresse de clonage,
-3. Ouvrir un shell et se positionner dans un répertoire de travail,
-4. Utiliser la commande suivante : 
-``` git clone https://github.com/<votre_login>/FMUF.git ```
+# Objectif du projet
 
-PS : si vous travaillez derrière un proxy HTTP (comme c'est le cas à l'école), utiliser la commande suivante en ligne de commande pour paramétrer le proxy :
+L'objectif principal de ce projet est d'aider les agriculteurs
+à automatiser le suivi de l'évolution de différents paramètres tels que:
 
-```git config --global http.proxy http://a.b.c.d:nnnn```
+	- la température
+	- la pression
+	- l'humidité du sol
+	- etc ...
+	
+dans leurs plantations et donc faciliter la rotation des cultures
+ou alors déclencher des actions automatiquement
 
-Puis, vous pouvez normalement cloner le projet.
+# Travaux déjà réalisés
 
-NB : remplacer l'adresse du proxy de l'école par l'adresse de votre proxy.
+Pour le moment les travaux sont encore sur papiers.
+Ils seront disponibles sous peu
 
-
+A très bientôt pour de nouvelles aventures!! 
